@@ -1,2 +1,9 @@
-# ganesha-karaoke-colab
-Professional Karaoke Video Creation using Google Colab, Whisper, and MoviePy. Supports Hindi lyrics with Saiyaara-style effects.
+# 🎬 Ganesha Karaoke Colab Project
+
+Professional karaoke video creation using Google Colab with Saiyaara-style effects.
+
+## 🚀 Quick Start
+
+### In any Google Colab:
+
+1. **Clone this repository:**
